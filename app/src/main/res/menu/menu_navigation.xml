@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bulb"
+        android:title="Tips"
+        android:icon="@drawable/bulb"/>
+    <item
+        android:id="@+id/kit"
+        android:title="FirstAid"
+        android:icon="@drawable/kit"/>
+    <item
+        android:id="@+id/SOS"
+        android:title="SOS"
+        android:icon="@drawable/sos"/>
+    <item
+        android:id="@+id/call"
+        android:title="Call"
+        android:icon="@drawable/call"/>
+    <item
+        android:id="@+id/message"
+        android:title="Message"
+        android:icon="@drawable/message"/>
+
+
+</menu>
